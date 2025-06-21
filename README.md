@@ -1,4 +1,4 @@
-# 📊 Bank Churn Analysis
+# 📊 Bank Customer Churn Analysis
 A comprehensive Power BI dashboard that analyzes customer churn behavior in the banking sector. This project helps stakeholders understand patterns leading to customer attrition and provides insights for improving retention strategies.
 
 # 🧠 Problem Statement
