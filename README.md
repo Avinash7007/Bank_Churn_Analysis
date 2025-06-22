@@ -1,19 +1,20 @@
 # 📊 Bank Customer Churn Analysis
+
 A comprehensive Power BI dashboard that analyzes customer churn behavior in the banking sector. This project helps stakeholders understand patterns leading to customer attrition and provides insights for improving retention strategies.
 
 # 🧠 Problem Statement
+
 Banking institutions face challenges in customer retention. Identifying the characteristics of customers likely to churn enables banks to proactively address issues and improve services. This project analyzes key metrics to uncover churn drivers.
 
 # 📂 Project Overview
 Tool Used: Power BI
-Key Focus Areas:
-
 
 # Data Model View
 ![Data model](https://github.com/user-attachments/assets/259ee446-dbd0-4ca6-b2f3-7de62e2f590e)
 
 # Dashboard View 
 ![Summary](https://github.com/user-attachments/assets/6c7c5dab-0a7c-41db-9cfd-02a2bb766ca0)
+
 ![All kpi (2)](https://github.com/user-attachments/assets/e34cd70c-1e69-4656-a16e-5e5ab63ff777)
 
 # Total vs. Active vs. Inactive Customers
@@ -45,6 +46,7 @@ Churn by Geography, Gender, and Age
 Tenure and Balance Analysis
 
 # Visualizations:
+
 Bar & Column Charts – Churn rate by demographics
 
 Line Charts – Monthly churn and retention trends
@@ -56,6 +58,7 @@ Slicers – Filter by Geography, Gender, and Credit Card status
 Cards – Display key KPIs
 
 # 📌 Features
+
 Fully interactive slicers and filters
 
 Drill-down capabilities for detailed view
@@ -65,6 +68,7 @@ Industry-standard report layout for executive presentation
 Custom DAX measures for accurate KPIs
 
 # 🛠️ Technical Stack
+
 Power BI Desktop for data modeling and visualization
 
 DAX (Data Analysis Expressions) for calculated columns and measures
