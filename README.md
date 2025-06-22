@@ -9,16 +9,7 @@ Banking institutions face challenges in customer retention. Identifying the char
 # 📂 Project Overview
 Tool Used: Power BI
 
-# Data Model View
-![Data model](https://github.com/user-attachments/assets/259ee446-dbd0-4ca6-b2f3-7de62e2f590e)
-
-# Dashboard View 
-![Summary](https://github.com/user-attachments/assets/6c7c5dab-0a7c-41db-9cfd-02a2bb766ca0)
-
-![All kpi (2)](https://github.com/user-attachments/assets/e34cd70c-1e69-4656-a16e-5e5ab63ff777)
-
 # Total vs. Active vs. Inactive Customers
-
 Credit Card vs. Non-Credit Card Holders
 
 Monthly Churn and Retention Trends
@@ -26,6 +17,15 @@ Monthly Churn and Retention Trends
 Customer Distribution by Geography and Tenure
 
 Impact of Features like Balance, Tenure, and Services Used on Churn
+
+# Data Model View
+![Data model](https://github.com/user-attachments/assets/259ee446-dbd0-4ca6-b2f3-7de62e2f590e)
+
+
+# Dashboard View 
+![Summary](https://github.com/user-attachments/assets/6c7c5dab-0a7c-41db-9cfd-02a2bb766ca0)
+
+![All kpi (2)](https://github.com/user-attachments/assets/e34cd70c-1e69-4656-a16e-5e5ab63ff777)
 
 # 📈 Dashboard Insights
 KPIs Tracked:
